@@ -40,8 +40,8 @@ text-transform: uppercase;
     border: 3px solid chartreuse;
     height: 50px;
     width: 500px;
-    top:100px;
-    left: 600px;
+    top:10px;
+    left: 150px;
     background-color: pink;
   }
   
@@ -66,9 +66,12 @@ text-transform: uppercase;
     position: sticky;
     background-color: blueviolet;
     border-color: brown;
-    border: 100px;
+    border: 10px;
     width: 200px;
-    top: 200px;
+    height: 50px;
+    top: 100px;
+     text-transform: uppercase;
+     padding: 20px;
   }
   .sticky.p{
     width: 100px;
